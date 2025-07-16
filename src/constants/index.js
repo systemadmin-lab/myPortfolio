@@ -14,16 +14,8 @@ export const myProjects = [
     logo: "",
     image: "/assets/projects/accessories.jpg",
     tags: [
-      {
-        id: 1,
-        name: "javascript",
-        path: "/assets/logos/csharp.svg",
-      },
-      {
-        id: 2,
-        name: "Nodejs",
-        path: "/assets/logos/dotnet.svg",
-      },
+     
+    
       {
         id: 3,
         name: "React",
@@ -93,11 +85,7 @@ export const myProjects = [
         name: "Blazor",
         path: "/assets/logos/blazor.svg",
       },
-      {
-        id: 2,
-        name: "NodeJs",
-        path: "/assets/logos/dotnetcore.svg",
-      },
+      
       {
         id: 3,
         name: "SQLite",
