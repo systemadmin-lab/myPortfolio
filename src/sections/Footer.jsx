@@ -13,6 +13,7 @@ const Footer = () => {
           <a href={social.href} key={index}>
             <img src={social.icon} className="w-5 h-5" alt={social.name} />
           </a>
+          ///
         ))}
       </div> */}
       <p>© 2025 Rejuan. All rights reserved.</p>
